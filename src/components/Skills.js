@@ -58,7 +58,7 @@ import mongoDB from '../assets/mongodb.png';
 
 export default function Skills() {
   return (
-    <section className="section" id="skills">
+    <section className="section " id="skills">
       <div className="container mx-auto">
         <h2 className="h2 text-accent mb-6">Skills</h2>
         <div className="flex flex-col justify-center items-center">

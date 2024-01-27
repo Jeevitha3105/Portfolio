@@ -7,7 +7,7 @@ import Project3 from '../assets/Project3.png';
 
 const Work = () => {
   return (
-    <section className='section' id='work'>
+    <section className='section ' id='work'>
       <div className='container mx-auto'>
         <div className='flex flex-col lg:flex-row gap-x-10'>
           <motion.div

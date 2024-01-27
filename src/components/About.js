@@ -4,7 +4,7 @@ import {fadeIn} from '../variants'
 
 const About = () => {
  
-  return <section className='section' id='about'  >
+  return <section className='section ' id='about'  >
     <div className='container mx-auto'>
       <div className='flex flex-col gap-y-10 lg:flex-row lg:items-center lg:justify-start lg:gap-x-20 lg:gap-y-0 h-screen'>
 

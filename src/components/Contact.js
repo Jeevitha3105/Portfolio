@@ -6,7 +6,7 @@ import Address from '../assets/address.png'
 import Gmail from '../assets/gmail.png'
 const Contact = () => {
   return(
-  <section className='py-20 lg:section lg:pt-56' id='contact'>
+  <section className='py-20 lg:section lg:pt-56 h-screen' id='contact'>
     <div className='container mx-auto'>
       <div className='flex flex-col lg:flex-row'>
         <motion.div
