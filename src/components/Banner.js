@@ -5,7 +5,7 @@ import {TypeAnimation} from 'react-type-animation'
 import {motion} from 'framer-motion'
 import {fadeIn} from '../variants'
 const Banner = () => {
-  return <section className=' h-screen flex items-start' id='home'> 
+  return <section className=' lg:h-screen  flex items-start ' id='home'> 
     <div className='container mx-auto'>
       <div className='flex flex-col gap-y-8 lg:flex-row lg:items-center lg:gap-x-12'>
         <div className='flex-1 text-center font-secondary lg:text-left pt-5'>
