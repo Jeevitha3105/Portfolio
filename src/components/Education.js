@@ -22,7 +22,7 @@ const services=[
 
 const Services = () => {
   return(
-  <section className='section' id='services'>
+  <section className='section h-screen' id='services'>
     <div className='container mx-auto'>
       <div className='flex flex-col gap-36 lg:flex-row'>
         <motion.div 
